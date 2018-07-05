@@ -1,0 +1,7 @@
+board.c:137:12:spl_board_load_image	8	static
+board.c:148:6:s_init	8	static
+board.c:209:5:spl_boot_device	8	static
+board.c:249:5:spl_boot_mode	0	static
+board.c:254:6:board_init_f	8	static
+board.c:267:6:reset_cpu	0	static
+board.c:295:6:enable_caches	0	static

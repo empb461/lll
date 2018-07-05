@@ -1,0 +1,9 @@
+sunxi_display.c:408:13:sunxi_is_composite	0	static
+sunxi_display.c:466:13:sunxi_composer_mode_set	8	static
+sunxi_display.c:505:13:sunxi_composer_enable	0	static
+sunxi_display.c:519:13:sunxi_lcdc_pll_set	56	static
+sunxi_display.c:73:12:await_completion.constprop	16	static
+sunxi_display.c:185:12:sunxi_hdmi_edid_get_block	40	static
+sunxi_display.c:1310:7:board_get_usable_ram_top	0	static
+sunxi_display.c:1363:7:video_hw_init	784	static
+sunxi_display.c:1523:5:sunxi_simplefb_setup	56	static

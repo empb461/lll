@@ -1,0 +1,5 @@
+scsi.c:332:13:scsi_ident_cpy	0	static
+scsi.c:222:14:scsi_write	40	static
+scsi.c:59:6:scsi_setup_read16	0	static
+scsi.c:149:14:scsi_read	48	static
+scsi.c:637:5:scsi_scan	32	static

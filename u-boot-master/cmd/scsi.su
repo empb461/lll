@@ -1,0 +1,2 @@
+scsi.c:28:12:do_scsi	40	static
+scsi.c:20:12:do_scsiboot	0	static

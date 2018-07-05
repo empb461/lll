@@ -1,0 +1,8 @@
+board.c:624:13:setup_environment	88	static
+board.c:81:5:board_init	8	static
+board.c:133:5:dram_init	8	static
+board.c:359:5:board_mmc_init	8	static
+board.c:394:6:i2c_init_board	8	static
+board.c:568:6:get_board_serial	8	static
+board.c:688:5:misc_init_r	24	static
+board.c:712:5:ft_board_setup	8	static

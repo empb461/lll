@@ -1,0 +1,6 @@
+psci.c:51:22:__mdelay	0	static
+psci.c:129:15:sunxi_cpu_power_off	8	static
+psci.c:176:21:psci_fiq_enter	32	static
+psci.c:206:14:psci_cpu_on	16	static
+psci.c:239:15:psci_cpu_off	8	static
+psci.c:252:15:psci_arch_init	0	static

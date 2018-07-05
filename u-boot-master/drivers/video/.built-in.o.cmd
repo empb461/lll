@@ -1,0 +1,1 @@
+cmd_drivers/video/built-in.o :=  arm-linux-ld.bfd     -r -o drivers/video/built-in.o drivers/video/cfb_console.o drivers/video/sunxi_display.o drivers/video/videomodes.o drivers/video/bridge/built-in.o 

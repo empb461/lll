@@ -1,0 +1,2 @@
+ehci-sunxi.c:72:12:ehci_usb_remove	16	static
+ehci-sunxi.c:34:12:ehci_usb_probe	32	static

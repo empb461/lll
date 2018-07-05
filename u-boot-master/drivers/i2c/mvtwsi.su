@@ -1,0 +1,10 @@
+mvtwsi.c:436:13:__twsi_i2c_set_bus_speed	40	static
+mvtwsi.c:181:33:twsi_get_base.isra.0	8	static
+mvtwsi.c:665:13:twsi_i2c_set_bus_speed	8	static
+mvtwsi.c:370:12:twsi_stop.constprop	16	static
+mvtwsi.c:658:13:twsi_i2c_init	24	static
+mvtwsi.c:254:12:twsi_wait.constprop	24	static
+mvtwsi.c:514:12:i2c_begin.constprop	16	static
+mvtwsi.c:673:12:twsi_i2c_probe	16	static
+mvtwsi.c:694:12:twsi_i2c_write	40	static
+mvtwsi.c:679:12:twsi_i2c_read	40	static
