@@ -9,7 +9,7 @@
  * Gary Jennejohn, DENX Software Engineering, <garyj@denx.de>
  *
  * SPDX-License-Identifier:	GPL-2.0+
- */
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii */
 
 /*
  * CPU specific code
